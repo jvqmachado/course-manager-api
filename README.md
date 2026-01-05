@@ -20,7 +20,7 @@ A ideia foi simular um cenário real de back-end, comum em sistemas educacionais
 - Spring Data JPA
 - Hibernate
 - Maven
-- Banco de dados relacional (H2 ou PostgreSQL)
+- Banco de dados relacional (MySQL)
 
 ## Estrutura
 
